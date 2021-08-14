@@ -1,0 +1,1 @@
+document.getElementById("mylib").style.color = red;

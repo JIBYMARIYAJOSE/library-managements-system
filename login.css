@@ -1,0 +1,54 @@
+.lib {
+    background-color: rgb(81, 255, 0);
+}
+
+.sys {
+    -ms-text-size-adjust: inherit;
+    color: black;
+    border-inline-start-color: black;
+    border-color: white;
+    background-color: blue;
+    border-width: thick;
+    border-style: solid;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+.login-box {
+    float: right;
+    font-size: 40px;
+    border-bottom: 4px solid #f2f2f5;
+    border-top: 4px solid #f1f1f7;
+    margin-bottom: 50px;
+    padding: 13px;
+    border: rgb(232, 233, 235);
+    border-style: dotted;
+    align-content: center;
+}
+
+.body {
+    background-image: url(lib.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+}
+
+.fa {
+    color: snow;
+}
+
+.form {
+    align-content: center;
+    -moz-box-align: center;
+}
+
+.log {
+    color: snow;
+    text-align: center;
+}
+
+.agg {
+    color: snow;
+}

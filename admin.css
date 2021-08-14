@@ -1,0 +1,43 @@
+.background-image {
+    background-image: url(lib3.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+}
+
+.header {
+    font-family: sans-serif;
+    color: purple;
+    border-color: white;
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+.name {
+    color: black;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: normal;
+    font-feature-settings: on;
+    font-size: 24px;
+}
+
+.table {
+    align-items: center;
+    border-color: black;
+    border-width: 10px;
+}
+
+.h1 {
+    color: orangered;
+    text-align: center;
+    font-size: 45px;
+    text-shadow: ghostwhite;
+}
+
+.row {
+    border-width: 10px;
+    background-color: white;
+}
